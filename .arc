@@ -4,6 +4,7 @@ jump-l03
 @http
 get /
 get /posts
+post /posts
 
 @tables
 data
