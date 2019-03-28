@@ -9,6 +9,7 @@ delete /posts/:post
 put /posts/:post
 patch /posts/:post
 get /account/:accountID
+get /another
 
 @tables
 data
