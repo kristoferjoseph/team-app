@@ -6,6 +6,7 @@ get /
 get /posts
 post /posts/:post
 delete /posts/:post
+put /posts/:post
 
 @tables
 data
