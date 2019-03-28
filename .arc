@@ -7,6 +7,7 @@ get /posts
 post /posts/:post
 delete /posts/:post
 put /posts/:post
+patch /posts/:post
 
 @tables
 data
