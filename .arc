@@ -5,6 +5,7 @@ jump-l03
 get /
 get /posts
 post /posts/:post
+delete /posts/:post
 
 @tables
 data
